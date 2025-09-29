@@ -1,161 +1,348 @@
 ```
-
 ███╗░░░███╗░█████╗░██████╗░░█████╗░████████╗██╗░░██╗░█████╗░██╗░░██╗
 ████╗░████║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║░░██║██╔══██╗╚██╗██╔╝
 ██╔████╔██║██║░░██║██████╔╝██║░░██║░░░██║░░░███████║██║░░██║░╚███╔╝░
 ██║╚██╔╝██║██║░░██║██╔══██╗██║░░██║░░░██║░░░██╔══██║██║░░██║░██╔██╗░
 ██║░╚═╝░██║╚█████╔╝██║░░██║╚█████╔╝░░░██║░░░██║░░██║╚█████╔╝██╔╝╚██╗
 ╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-      MOROTHOX // HACKING THE CODE, THE WORLD, THE UNIVERSE
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RETRO_RED-HACKER-FF3636?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/THE_FORCE-FULL_STACK-900C3F?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/42-THE_ANSWER-222?style=for-the-badge&logo=42&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morothox&show_icons=true&theme=darcula&hide=prs&title_color=ff3636&icon_color=900C3F&text_color=fff&bg_color=1a1a1a" alt="Morothox's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morothox&layout=compact&theme=darcula&title_color=ff3636&text_color=fff&bg_color=1a1a1a" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Morothox&theme=darkhub&column=4" alt="Morothox's Trophy Case" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Morothox&theme=dracula" alt="Morothox's Activity Graph"/>
-</p>
-
----
-
-# 👾 **Morothox**: Full Stack Student, Seeker of 42, Disciple of the Dark Side
-
-**`Full Stack Dev` | Python Enthusiast | Hacker | Gym/Hyrox Adventurer | Seeker of 42 | Disciple of the Dark Side**
-
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" alt="Darth Vader Breathing"/>
-  <br>
-  <b>
-    "I find your lack of code disturbing."
-  </b>
+
+### `// SYSTEM OVERRIDE INITIALIZED //`
+**`FULL STACK ARCHITECT` · `PYTHON WIELDER` · `SEEKER OF 42` · `DARK SIDE OPERATIVE`**
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_42-FF3636?style=for-the-badge&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/SIDE-DARK-900C3F?style=for-the-badge&labelColor=1a1a1a&logo=starwars">
+
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│ > ACCESSING SECURE TERMINAL...                              │
+│ > ESTABLISHING CONNECTION...                   [████████] 100%│
+│ > USER: MOROTHOX                                            │
+│ > CLEARANCE: GRANTED                                        │
+│ > "The code is strong with this one."                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+[![GitHub Followers](https://img.shields.io/github/followers/Morothox?style=social)](https://github.com/Morothox)
+[![Profile Views](https://komarev.com/ghpvc/?username=Morothox&color=FF3636&style=flat-square&label=INTRUSIONS)](https://github.com/Morothox)
+
 </div>
 
 ---
 
-> “The Answer to the Ultimate Question of Life, the Universe, and Everything is 42.”  
-> — Douglas Adams, _The Hitchhiker’s Guide to the Galaxy_
-
----
-
-## 🛠️ Stack & Skills
-
-![Python](https://img.shields.io/badge/-Python-222?style=flat-square&logo=python&logoColor=FF3636)
-![React](https://img.shields.io/badge/-React-222?style=flat-square&logo=react&logoColor=FF3636)
-![Node.js](https://img.shields.io/badge/-Node.js-222?style=flat-square&logo=node.js&logoColor=FF3636)
-![Docker](https://img.shields.io/badge/-Docker-222?style=flat-square&logo=docker&logoColor=FF3636)
-![Bash](https://img.shields.io/badge/-Bash-222?style=flat-square&logo=gnubash&logoColor=FF3636)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat-square&logo=javascript&logoColor=FF3636)
-![SQL](https://img.shields.io/badge/-SQL-222?style=flat-square&logo=postgresql&logoColor=FF3636)
-![HTML5](https://img.shields.io/badge/-HTML5-222?style=flat-square&logo=html5&logoColor=FF3636)
-![CSS3](https://img.shields.io/badge/-CSS3-222?style=flat-square&logo=css3&logoColor=FF3636)
-
-```txt
-Languages:    Python, JavaScript/TypeScript, HTML/CSS, Bash
-Frameworks:   React, Node.js, Express, Flask
-Tools:        GitHub, Docker, SQL/NoSQL, REST APIs
-Hacker Vibes: Terminal Master, Script Automator, Bug Hunter, Fast Learner
-Side:         Dark (always)
-```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech/Links |
-| ------- | ----------- | ---------- |
-| [**altar-server-scheduling**](https://github.com/Morothox/altar-server-scheduling) | Let altar servers serve — not scramble. Scheduling system for altar servers. | `Python` `Full Stack` |
-| [**skills-introduction-to-github**](https://github.com/Morothox/skills-introduction-to-github) | Leveling up GitHub skills for everyone. | `GitHub` |
-| [**kanzlei**](https://github.com/Morothox/kanzlei) | (Something legal, something cool — ask me!) | `Python` `Node.js` |
-| [**docswebsite**](https://github.com/Morothox/docswebsite) | Documentation, the hacker way. | `Docs` `Retro` |
-| [**ai-agents-for-beginners**](https://github.com/Morothox/ai-agents-for-beginners) | Making AI accessible to all. | `AI` `Python` |
-
----
-
-## 🌌 The Dark Side of Python  
-> _“If only you knew the power of the Python.”_  
+## ⚡ TACTICAL OVERVIEW
 
 ```python
-# PyVader: A taste of the dark side
-class SithLord:
-    def __init__(self, name="Darth Morothox"):
-        self.side = "dark"
-        self.power = 42
-
-    def force_push(self, target):
-        print(f"🚨 {target} was pushed to the dark side.")
-
-    def hack_the_universe(self):
-        print("I find your lack of code disturbing.")
-
-if __name__ == "__main__":
-    vader = SithLord()
-    vader.force_push("the repo")
-    vader.hack_the_universe()
+class Morothox:
+    def __init__(self):
+        self.role = "Full Stack Architect"
+        self.alignment = "Chaotic Good (Dark Side Edition)"
+        self.quest = "Seeking the Ultimate Answer: 42"
+        self.power_level = 9001
+        
+    def expertise(self):
+        return {
+            "backend": ["Python", "Node.js", "Express", "Flask", "Django"],
+            "frontend": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+            "devops": ["Docker", "Git", "CI/CD", "Linux/Bash"],
+            "database": ["PostgreSQL", "MongoDB", "Redis"],
+            "specialty": ["REST APIs", "Microservices", "Automation"],
+            "dark_arts": ["Script Automation", "System Hacking", "Bug Hunting"]
+        }
+    
+    def current_mission(self):
+        return [
+            "Building scalable full-stack applications",
+            "Automating everything that can be automated",
+            "Crushing Hyrox competitions",
+            "Contributing to open source",
+            "Searching for 42 in unexpected places"
+        ]
+    
+    def philosophy(self):
+        print("Code is poetry. Bugs are merely features in disguise.")
+        print("The Force flows through every line of Python.")
 ```
 
 ---
 
-## 🕶️ Off the Keyboard
+## 🛠️ ARSENAL
 
-- **42:** Forever searching for the answer.  
-- **Gym & Hyrox:** Challenge accepted.  
-- **Hacking:** Not just code — life, the world, and the universe.
-- **Retro:** Terminal themes, ASCII art, and old-school vibes.
-- **Open Source:** Always open to collaboration, PRs, and learning together.
+<div align="center">
+
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 🏆 Community & Open Source
+## 📊 SYSTEM METRICS
 
-- 💬 **Pull requests? Issues? Want to collaborate on a dark side project?**  
-  Drop me a message or [open an issue](https://github.com/Morothox/altar-server-scheduling/issues).
-- 🏅 _Check out my GitHub Trophy Case and Activity Graph above!_
-- 🌐 Always looking to connect with hackers, builders, and seekers of 42.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Morothox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&icon_color=900C3F&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Morothox&theme=radical&hide_border=true&background=0D1117&stroke=FF3636&ring=FF3636&fire=900C3F&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morothox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Morothox&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF3636&line=900C3F&point=C9D1D9" alt="Activity Graph" width="49%" />
+
+</div>
+
+---
+
+## 🎯 MISSION-CRITICAL PROJECTS
+
+<div align="center">
+
+| 🚀 PROJECT | 📋 MISSION BRIEFING | ⚙️ TECH STACK | 🔗 DEPLOYMENT |
+|:----------|:-------------------|:-------------|:-------------|
+| **[Altar Server Scheduling](https://github.com/Morothox/altar-server-scheduling)** | Enterprise-grade scheduling system. Because even servers need organization. | `Python` `Flask` `PostgreSQL` | [![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square)](https://github.com/Morothox/altar-server-scheduling) |
+| **[AI Agents for Beginners](https://github.com/Morothox/ai-agents-for-beginners)** | Democratizing AI - making intelligence accessible to all. | `Python` `AI/ML` `OpenAI` | [![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square)](https://github.com/Morothox/ai-agents-for-beginners) |
+| **[Kanzlei System](https://github.com/Morothox/kanzlei)** | Legal tech meets dark side efficiency. | `Full Stack` `Node.js` `React` | [![Status](https://img.shields.io/badge/STATUS-BETA-FFA500?style=flat-square)](https://github.com/Morothox/kanzlei) |
+| **[Docs Sanctuary](https://github.com/Morothox/docswebsite)** | Documentation done right. Retro style, modern function. | `Markdown` `Static Gen` | [![Status](https://img.shields.io/badge/STATUS-LIVE-00FF00?style=flat-square)](https://github.com/Morothox/docswebsite) |
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 💀 THE DARK SIDE OF DEVELOPMENT
 
-- <img src="https://img.shields.io/badge/Discord-FF3636?style=for-the-badge&logo=discord&logoColor=white" height="20"/> `your-discord-username`
-- <img src="https://img.shields.io/badge/LinkedIn-FF3636?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/> [`your-linkedin-handle`](https://linkedin.com/in/your-linkedin-handle)
-<!-- Replace the above with your real links! -->
-<!-- Optionally add a visitor counter below: -->
-<!-- ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Morothox&title=Visitors) -->
+<div align="center">
+
+```
+    ⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⣷⣶⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⠀⠀
+    ⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦
+    ⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+    ⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
+    
+         "I find your lack of tests disturbing."
+              — Darth Morothox
+```
+
+</div>
+
+### The Sith Code of Development
+
+```python
+"""
+Peace is a lie, there is only passion (for coding).
+Through passion, I gain strength (in problem-solving).
+Through strength, I gain power (over complexity).
+Through power, I gain victory (in production).
+Through victory, my chains are broken (no more bugs).
+The Force shall free me (from legacy code).
+"""
+
+class DarkSideDeveloper:
+    def __init__(self):
+        self.force_level = float('inf')
+        self.side = "dark"
+        self.weapon = "Python & JavaScript"
+        
+    def force_push(self, repo, commits):
+        """Push to production. Fear is temporary, downtime is temporary, glory is forever."""
+        if self.verify_tests():
+            print(f"⚡ Force pushing {commits} commits to {repo}")
+            return "Success: The Force is strong with this deployment"
+        else:
+            return "Warning: I sense a disturbance in the codebase"
+    
+    def mind_trick(self, bug):
+        """These aren't the bugs you're looking for."""
+        bug.status = "feature"
+        return "This will do fine."
+    
+    def force_lightning(self):
+        """Debug with extreme prejudice."""
+        return """
+        ⚡️⚡️⚡️ UNLIMITED DEBUGGING POWER ⚡️⚡️⚡️
+        """
+    
+    def order_66(self):
+        """Execute all deprecated dependencies."""
+        print("npm audit fix --force")
+        print("The time has come. Execute Order 66.")
+
+# Initialize the dark side
+sith = DarkSideDeveloper()
+sith.force_lightning()
+```
 
 ---
+
+## 🎖️ ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Morothox&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ACHIEVEMENT LOG                                            │
+├─────────────────────────────────────────────────────────────┤
+│  [✓] 100+ Commits                    XP: +1000              │
+│  [✓] Open Source Contributor         XP: +500               │
+│  [✓] Full Stack Mastery              XP: +2000              │
+│  [✓] Python Dark Arts                XP: +1500              │
+│  [✓] Hyrox Survivor                  XP: +800               │
+│  [✓] Found 42 Easter Eggs            XP: +4200              │
+│  [◯] Become One with The Force       XP: +∞                 │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌌 BEYOND THE TERMINAL
+
+<div align="center">
+
+| 🎯 QUEST | 📍 STATUS | 🔥 POWER LEVEL |
+|:---------|:----------|:---------------|
+| 🏋️ **Gym & Hyrox** | Crushing PRs (both kinds) | `███████░░░ 70%` |
+| 🔍 **Seeking 42** | The search continues | `████████░░ 80%` |
+| 🌐 **Open Source** | Always contributing | `██████████ 100%` |
+| 🎮 **Side Quests** | Building cool sh*t | `████████░░ 85%` |
+| 🧠 **Learning** | Never stops | `██████████ ∞` |
+
+</div>
+
+### Current Missions
+
+- 🚀 **Building:** Next-gen full-stack applications with cutting-edge tech
+- 🤖 **Automating:** Everything that moves (and some things that don't)
+- 💪 **Training:** Hyrox competitions - where code meets cardio
+- 🌟 **Contributing:** Open source projects that make a difference
+- 🔭 **Exploring:** The intersection of AI, automation, and human potential
+
+---
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+```
+> SCANNING FOR COMMUNICATION CHANNELS...
+> MULTIPLE PROTOCOLS DETECTED
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-Morothox-181717?style=for-the-badge&logo=github)](https://github.com/Morothox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-handle)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 💬 Open For
+
+- 🤝 **Collaboration** on innovative projects
+- 💼 **Freelance** opportunities
+- 🎯 **Open Source** contributions
+- 🧠 **Knowledge** exchange
+- ☕ **Coffee** and code discussions
+
+</div>
+
+---
+
+## 📜 THE MANIFESTO
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  "The Answer to Life, the Universe, and Everything       ║
+║   is 42. But the question? That's still compiling."      ║
+║                                                           ║
+║  — Douglas Adams (& Morothox)                            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### The Developer's Creed
 
 ```bash
-$ whoami
-Morothox: Student, Full Stack Developer, Gym Rat, Seeker of 42.
-# The Force will be with you. Always.
+#!/bin/bash
+# The path of the developer
+
+echo "I code, therefore I am."
+echo "I debug, therefore I learn."
+echo "I deploy, therefore I trust."
+echo "I optimize, therefore I obsess."
+echo "I document, therefore I care."
+echo ""
+echo "The Force will be with you. Always."
+echo "Even when production is down at 3 AM."
 ```
 
 ---
 
-<!--
-            .-""-.
-           / .--. \
-          / /    \ \
-          | |    | |
-          | |.-""-.|
-         ///`.::::.`\
-        ||| ::/  \:: ;
-        ||; ::\__/:: ;
-         \\\ '::::' /
-          `=':-..-'`
- // RETRO HACK THE SANCTUARY //
--->
+## 🎬 SYSTEM SIGNATURE
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  $ whoami                                                  ║
+║  > MOROTHOX                                                ║
+║                                                            ║
+║  $ cat /etc/mission                                        ║
+║  > Build. Break. Learn. Repeat.                           ║
+║                                                            ║
+║  $ echo $PHILOSOPHY                                        ║
+║  > "Code is poetry written in logic."                     ║
+║                                                            ║
+║  $ grep -r "meaning of life" /universe/*                  ║
+║  > 42                                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+     ⭐ Star repos if you find them useful
+     🍴 Fork to your heart's content  
+     🐛 Issues are just features in disguise
+     🤝 PRs are always welcome
+
+    The Force will be with you. Always.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=May%20The%20Force%20Be%20With%20Your%20Code&fontSize=20&fontColor=fff&animation=twinkling" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+**`[TRANSMISSION ENDED]`**
+
+![Visitor Count](https://profile-counter.glitch.me/Morothox/count.svg)
+
+</div>
