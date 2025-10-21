@@ -1,348 +1,334 @@
-```
-███╗░░░███╗░█████╗░██████╗░░█████╗░████████╗██╗░░██╗░█████╗░██╗░░██╗
-████╗░████║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║░░██║██╔══██╗╚██╗██╔╝
-██╔████╔██║██║░░██║██████╔╝██║░░██║░░░██║░░░███████║██║░░██║░╚███╔╝░
-██║╚██╔╝██║██║░░██║██╔══██╗██║░░██║░░░██║░░░██╔══██║██║░░██║░██╔██╗░
-██║░╚═╝░██║╚█████╔╝██║░░██║╚█████╔╝░░░██║░░░██║░░██║╚█████╔╝██╔╝╚██╗
-╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-```
-
 <div align="center">
 
-### `// SYSTEM OVERRIDE INITIALIZED //`
-**`FULL STACK ARCHITECT` · `PYTHON WIELDER` · `SEEKER OF 42` · `DARK SIDE OPERATIVE`**
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=1a1a1a">
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_42-FF3636?style=for-the-badge&labelColor=1a1a1a">
-<img src="https://img.shields.io/badge/SIDE-DARK-900C3F?style=for-the-badge&labelColor=1a1a1a&logo=starwars">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│ > ACCESSING SECURE TERMINAL...                              │
-│ > ESTABLISHING CONNECTION...                   [████████] 100%│
-│ > USER: MOROTHOX                                            │
-│ > CLEARANCE: GRANTED                                        │
-│ > "The code is strong with this one."                       │
-└─────────────────────────────────────────────────────────────┘
+```
+███╗   ███╗ ██████╗ ██████╗  ██████╗ ████████╗██╗  ██╗ ██████╗ ██╗  ██╗
+████╗ ████║██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║██╔═══██╗╚██╗██╔╝
+██╔████╔██║██║   ██║██████╔╝██║   ██║   ██║   ███████║██║   ██║ ╚███╔╝
+██║╚██╔╝██║██║   ██║██╔══██╗██║   ██║   ██║   ██╔══██║██║   ██║ ██╔██╗
+██║ ╚═╝ ██║╚██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║╚██████╔╝██╔╝ ██╗
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![GitHub Followers](https://img.shields.io/github/followers/Morothox?style=social)](https://github.com/Morothox)
-[![Profile Views](https://komarev.com/ghpvc/?username=Morothox&color=FF3636&style=flat-square&label=INTRUSIONS)](https://github.com/Morothox)
+### Full Stack Architect | Python Specialist | Dark Side Developer
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF00?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white">
+<img src="https://img.shields.io/badge/STACK-FULL-FF3636?style=for-the-badge&labelColor=0a0a0a&logo=stackshare&logoColor=white">
+<img src="https://img.shields.io/badge/SIDE-DARK-8B0000?style=for-the-badge&labelColor=0a0a0a&logo=starwars&logoColor=white">
+
+[![GitHub Followers](https://img.shields.io/github/followers/Morothox?style=social&logo=github)](https://github.com/Morothox)
+[![Profile Views](https://komarev.com/ghpvc/?username=Morothox&color=red&style=flat-square&label=Visitors)](https://github.com/Morothox)
 
 </div>
 
 ---
 
-## ⚡ TACTICAL OVERVIEW
+## 👨‍💻 About Me
 
 ```python
-class Morothox:
+class Developer:
     def __init__(self):
+        self.name = "Morothox"
         self.role = "Full Stack Architect"
-        self.alignment = "Chaotic Good (Dark Side Edition)"
-        self.quest = "Seeking the Ultimate Answer: 42"
-        self.power_level = 9001
-        
-    def expertise(self):
-        return {
-            "backend": ["Python", "Node.js", "Express", "Flask", "Django"],
-            "frontend": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-            "devops": ["Docker", "Git", "CI/CD", "Linux/Bash"],
-            "database": ["PostgreSQL", "MongoDB", "Redis"],
-            "specialty": ["REST APIs", "Microservices", "Automation"],
-            "dark_arts": ["Script Automation", "System Hacking", "Bug Hunting"]
-        }
-    
-    def current_mission(self):
-        return [
-            "Building scalable full-stack applications",
-            "Automating everything that can be automated",
-            "Crushing Hyrox competitions",
-            "Contributing to open source",
-            "Searching for 42 in unexpected places"
-        ]
-    
-    def philosophy(self):
-        print("Code is poetry. Bugs are merely features in disguise.")
-        print("The Force flows through every line of Python.")
+        self.language_spoken = ["Python", "JavaScript", "TypeScript", "en_US", "de_DE"]
+        self.code_philosophy = "Clean code is happy code"
+
+    def say_hi(self):
+        print("""
+        Hey there! I'm a developer who believes in building software that matters.
+
+        My mission: Create elegant solutions to complex problems.
+        My method: Full-stack development with a focus on quality and UX.
+        My motto: "The Force is strong with well-written code."
+        """)
+
+dev = Developer()
+dev.say_hi()
 ```
+
+**Currently crafting:** Enterprise-grade applications that solve real-world problems
+**Passionate about:** Clean architecture, automation, and making complex systems simple
+**Always learning:** New technologies, best practices, and the art of software craftsmanship
 
 ---
 
-## 🛠️ ARSENAL
+<div align="center">
+
+## ⚡ Featured Projects
+
+### Building Solutions That Matter
+
+</div>
+
+<br>
 
 <div align="center">
 
-### Core Technologies
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕯️ Altar Server Scheduling System
+
+<a href="https://github.com/Morothox/altar-server-scheduling">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=0a0a0a">
+
+**Enterprise-grade scheduling and management platform** designed for religious organizations. This comprehensive system revolutionizes how altar server schedules are created, managed, and communicated.
+
+#### ✨ Key Features
+
+- **Smart Scheduling Engine**
+  - Automated conflict detection
+  - Intelligent assignment algorithms
+  - Multi-role management
+  - Holiday and event handling
+
+- **Modern Interface**
+  - Intuitive dashboard
+  - Drag-and-drop schedule builder
+  - Mobile-responsive design
+  - Real-time updates
+
+- **Communication Hub**
+  - Automated notifications
+  - Email/SMS integration
+  - Calendar exports (iCal, Google)
+  - Reminder system
+
+- **Administration**
+  - User management
+  - Role-based permissions
+  - Analytics and reporting
+  - Backup and audit logs
+
+#### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### 🎯 Impact
+
+- Reduces scheduling time by **90%**
+- Serves multiple parishes simultaneously
+- Eliminates double-booking errors
+- Streamlines communication workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Secure Password Manager
+
+<a href="https://github.com/Morothox/passwordmanager">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&labelColor=0a0a0a">
+
+**Military-grade password management solution** with a focus on security, privacy, and user experience. Your digital vault protected by best-in-class encryption.
+
+#### ✨ Key Features
+
+- **Fort Knox Security**
+  - AES-256 encryption
+  - Zero-knowledge architecture
+  - Master password hashing (bcrypt/Argon2)
+  - Encrypted local storage
+
+- **Smart Password Tools**
+  - Cryptographically secure generator
+  - Strength analyzer
+  - Breach detection
+  - Password history
+
+- **User Experience**
+  - Clean, intuitive interface
+  - Quick search and filtering
+  - Copy-to-clipboard with auto-clear
+  - Category organization
+
+- **Advanced Features**
+  - Secure notes storage
+  - Auto-lock functionality
+  - Import/Export capabilities
+  - Password sharing (encrypted)
+
+#### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Crypto](https://img.shields.io/badge/Cryptography-FF6B6B?style=flat-square&logo=letsencrypt&logoColor=white)
+
+#### 🎯 Security First
+
+- **End-to-end encryption** - Your data, your key
+- **No cloud dependencies** - Fully offline capable
+- **Open source** - Transparent and auditable
+- **Regular security audits** - Constantly improving
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Technology Arsenal
+
+### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 SYSTEM METRICS
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Morothox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&icon_color=900C3F&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Morothox&theme=radical&hide_border=true&background=0D1117&stroke=FF3636&ring=FF3636&fire=900C3F&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%" />
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morothox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Morothox&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF3636&line=900C3F&point=C9D1D9" alt="Activity Graph" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morothox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&icon_color=FF3636&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morothox&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3636&text_color=C9D1D9&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Morothox&theme=radical&hide_border=true&background=0D1117&stroke=FF3636&ring=FF3636&fire=FF3636&currStreakLabel=C9D1D9" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Morothox&theme=radical&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5" width="48%" />
 
 </div>
 
 ---
 
-## 🎯 MISSION-CRITICAL PROJECTS
-
-<div align="center">
-
-| 🚀 PROJECT | 📋 MISSION BRIEFING | ⚙️ TECH STACK | 🔗 DEPLOYMENT |
-|:----------|:-------------------|:-------------|:-------------|
-| **[Altar Server Scheduling](https://github.com/Morothox/altar-server-scheduling)** | Enterprise-grade scheduling system. Because even servers need organization. | `Python` `Flask` `PostgreSQL` | [![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square)](https://github.com/Morothox/altar-server-scheduling) |
-| **[AI Agents for Beginners](https://github.com/Morothox/ai-agents-for-beginners)** | Democratizing AI - making intelligence accessible to all. | `Python` `AI/ML` `OpenAI` | [![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square)](https://github.com/Morothox/ai-agents-for-beginners) |
-| **[Kanzlei System](https://github.com/Morothox/kanzlei)** | Legal tech meets dark side efficiency. | `Full Stack` `Node.js` `React` | [![Status](https://img.shields.io/badge/STATUS-BETA-FFA500?style=flat-square)](https://github.com/Morothox/kanzlei) |
-| **[Docs Sanctuary](https://github.com/Morothox/docswebsite)** | Documentation done right. Retro style, modern function. | `Markdown` `Static Gen` | [![Status](https://img.shields.io/badge/STATUS-LIVE-00FF00?style=flat-square)](https://github.com/Morothox/docswebsite) |
-
-</div>
-
----
-
-## 💀 THE DARK SIDE OF DEVELOPMENT
-
-<div align="center">
-
-```
-    ⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⣷⣶⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⠀⠀
-    ⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦
-    ⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-    ⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-    ⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
-    
-         "I find your lack of tests disturbing."
-              — Darth Morothox
-```
-
-</div>
-
-### The Sith Code of Development
+## 💡 Development Philosophy
 
 ```python
-"""
-Peace is a lie, there is only passion (for coding).
-Through passion, I gain strength (in problem-solving).
-Through strength, I gain power (over complexity).
-Through power, I gain victory (in production).
-Through victory, my chains are broken (no more bugs).
-The Force shall free me (from legacy code).
-"""
+class CodingPrinciples:
+    """The way of the developer"""
 
-class DarkSideDeveloper:
-    def __init__(self):
-        self.force_level = float('inf')
-        self.side = "dark"
-        self.weapon = "Python & JavaScript"
-        
-    def force_push(self, repo, commits):
-        """Push to production. Fear is temporary, downtime is temporary, glory is forever."""
-        if self.verify_tests():
-            print(f"⚡ Force pushing {commits} commits to {repo}")
-            return "Success: The Force is strong with this deployment"
-        else:
-            return "Warning: I sense a disturbance in the codebase"
-    
-    def mind_trick(self, bug):
-        """These aren't the bugs you're looking for."""
-        bug.status = "feature"
-        return "This will do fine."
-    
-    def force_lightning(self):
-        """Debug with extreme prejudice."""
+    principles = {
+        "clean_code": "Write code for humans first, machines second",
+        "testing": "Untested code is broken code",
+        "documentation": "Future you will thank present you",
+        "security": "Security is not optional, it's mandatory",
+        "simplicity": "Complexity is the enemy of execution",
+        "iteration": "Ship, learn, improve, repeat"
+    }
+
+    @staticmethod
+    def develop():
         return """
-        ⚡️⚡️⚡️ UNLIMITED DEBUGGING POWER ⚡️⚡️⚡️
+        1. Understand the problem deeply
+        2. Design before you code
+        3. Write clean, testable code
+        4. Refactor mercilessly
+        5. Deploy with confidence
         """
-    
-    def order_66(self):
-        """Execute all deprecated dependencies."""
-        print("npm audit fix --force")
-        print("The time has come. Execute Order 66.")
 
-# Initialize the dark side
-sith = DarkSideDeveloper()
-sith.force_lightning()
+    @staticmethod
+    def debug():
+        return "The Force is strong with console.log()"
 ```
 
 ---
 
-## 🎖️ ACHIEVEMENTS UNLOCKED
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Morothox&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+## 🎯 What I'm Up To
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ACHIEVEMENT LOG                                            │
-├─────────────────────────────────────────────────────────────┤
-│  [✓] 100+ Commits                    XP: +1000              │
-│  [✓] Open Source Contributor         XP: +500               │
-│  [✓] Full Stack Mastery              XP: +2000              │
-│  [✓] Python Dark Arts                XP: +1500              │
-│  [✓] Hyrox Survivor                  XP: +800               │
-│  [✓] Found 42 Easter Eggs            XP: +4200              │
-│  [◯] Become One with The Force       XP: +∞                 │
-└─────────────────────────────────────────────────────────────┘
+```bash
+$ cat current_status.sh
+
+#!/bin/bash
+
+echo "🚀 Building: Full-stack applications with real-world impact"
+echo "📚 Learning: Advanced system design and architecture patterns"
+echo "🤝 Contributing: Open source projects that make a difference"
+echo "💪 Training: Hyrox competitions - where code meets cardio"
+echo "🔧 Automating: Everything that can be automated"
+echo "🌟 Exploring: AI/ML integration in web applications"
 ```
 
 ---
 
-## 🌌 BEYOND THE TERMINAL
-
 <div align="center">
 
-| 🎯 QUEST | 📍 STATUS | 🔥 POWER LEVEL |
-|:---------|:----------|:---------------|
-| 🏋️ **Gym & Hyrox** | Crushing PRs (both kinds) | `███████░░░ 70%` |
-| 🔍 **Seeking 42** | The search continues | `████████░░ 80%` |
-| 🌐 **Open Source** | Always contributing | `██████████ 100%` |
-| 🎮 **Side Quests** | Building cool sh*t | `████████░░ 85%` |
-| 🧠 **Learning** | Never stops | `██████████ ∞` |
+## 📬 Let's Connect
 
-</div>
-
-### Current Missions
-
-- 🚀 **Building:** Next-gen full-stack applications with cutting-edge tech
-- 🤖 **Automating:** Everything that moves (and some things that don't)
-- 💪 **Training:** Hyrox competitions - where code meets cardio
-- 🌟 **Contributing:** Open source projects that make a difference
-- 🔭 **Exploring:** The intersection of AI, automation, and human potential
-
----
-
-## 📡 ESTABLISH CONNECTION
-
-<div align="center">
-
-```
-> SCANNING FOR COMMUNICATION CHANNELS...
-> MULTIPLE PROTOCOLS DETECTED
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-Morothox-181717?style=for-the-badge&logo=github)](https://github.com/Morothox)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-handle)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![GitHub](https://img.shields.io/badge/GitHub-Morothox-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Morothox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 
 ### 💬 Open For
 
-- 🤝 **Collaboration** on innovative projects
-- 💼 **Freelance** opportunities
-- 🎯 **Open Source** contributions
-- 🧠 **Knowledge** exchange
-- ☕ **Coffee** and code discussions
+🤝 Collaboration on interesting projects
+💼 Freelance opportunities
+🎯 Open source contributions
+☕ Coffee and code discussions
+🧠 Knowledge sharing and mentorship
 
 </div>
 
 ---
 
-## 📜 THE MANIFESTO
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  "The Answer to Life, the Universe, and Everything       ║
-║   is 42. But the question? That's still compiling."      ║
-║                                                           ║
-║  — Douglas Adams (& Morothox)                            ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### The Developer's Creed
-
-```bash
-#!/bin/bash
-# The path of the developer
-
-echo "I code, therefore I am."
-echo "I debug, therefore I learn."
-echo "I deploy, therefore I trust."
-echo "I optimize, therefore I obsess."
-echo "I document, therefore I care."
-echo ""
-echo "The Force will be with you. Always."
-echo "Even when production is down at 3 AM."
-```
-
----
-
-## 🎬 SYSTEM SIGNATURE
-
-<div align="center">
+## 🌟 The Developer's Creed
 
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║  $ whoami                                                  ║
-║  > MOROTHOX                                                ║
+║  "Any sufficiently advanced technology is                 ║
+║   indistinguishable from magic."                          ║
 ║                                                            ║
-║  $ cat /etc/mission                                        ║
-║  > Build. Break. Learn. Repeat.                           ║
+║  But we're not doing magic. We're writing code.           ║
+║  Clean, tested, documented, maintainable code.            ║
 ║                                                            ║
-║  $ echo $PHILOSOPHY                                        ║
-║  > "Code is poetry written in logic."                     ║
-║                                                            ║
-║  $ grep -r "meaning of life" /universe/*                  ║
-║  > 42                                                      ║
+║  The Force will be with you. Always.                      ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-
-     ⭐ Star repos if you find them useful
-     🍴 Fork to your heart's content  
-     🐛 Issues are just features in disguise
-     🤝 PRs are always welcome
-
-    The Force will be with you. Always.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=May%20The%20Force%20Be%20With%20Your%20Code&fontSize=20&fontColor=fff&animation=twinkling" width="100%">
+<br>
 
-</div>
+⭐ **Star repositories you find useful**
+🍴 **Fork and build upon them**
+🐛 **Report issues to help improve**
+🤝 **Pull requests are always welcome**
 
----
+<br>
 
-<div align="center">
+```
+$ echo "May The Force Be With Your Code"
+```
 
-**`[TRANSMISSION ENDED]`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=24&fontColor=fff&animation=twinkling" width="100%">
 
-![Visitor Count](https://profile-counter.glitch.me/Morothox/count.svg)
+**`[END OF TRANSMISSION]`**
+
+![Visitors](https://profile-counter.glitch.me/Morothox/count.svg)
 
 </div>
